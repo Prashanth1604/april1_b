@@ -2,5 +2,5 @@ hello
 this is 
 a sample
 file 
-to use for 
-a demo activity.
+apple
+mange
